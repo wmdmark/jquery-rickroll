@@ -1,11 +1,22 @@
-# jQuery RickRoll plugin v1.0
+# jQuery RickRoll plugin v3.1.88.5rc12a
 
 ## What is it?
-In the spirit of [Desiging for Emotion](http://www.youtube.com/watch?v=dQw4w9WgXcQ&autoplay=1), enhance the UX of any website or app by randomly RickRolling your users.
+Enhance the UX of any website or app by randomly RickRolling your users!
 
-There's a bonus feature for those special users who roll with IE.
+BONUS: A bonus feature for those special users who roll with IE.
 
 ## Usage
 ```js
 $("a:visible").rickRoll();
 ```
+
+## License 
+(The BSD/MIT APACHE License, 1999 version)[*](http://www.youtube.com/watch?v=dQw4w9WgXcQ&autoplay=1)
+
+THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
+CLAIM, DAMAGES, RICKROLLING OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
+TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
+SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
