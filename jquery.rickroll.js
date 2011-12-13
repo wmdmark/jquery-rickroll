@@ -1,5 +1,5 @@
 $.fn.extend({
-	rickRoll: function(){
+	rickroll: function(){
 		var $links = $(this);
 		if ($links.length) {
 			var rn = Math.floor(Math.random() * $links.length);
