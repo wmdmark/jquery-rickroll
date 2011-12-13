@@ -1,4 +1,4 @@
-# jQuery RickRoll plugin v3.1.88.5rc12a
+# jQuery RickRoll plugin v3.1.88.5rc12b
 
 ## What is it?
 Enhance the UX of any website or app by randomly Rickrolling your users!
