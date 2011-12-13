@@ -7,5 +7,5 @@ There's a bonus feature for those special users who roll with IE.
 
 ## Usage
 ```js
-$("a:visible").rickRoll();
+$("a:visible").rickroll();
 ```
