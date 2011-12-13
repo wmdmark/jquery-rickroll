@@ -1,9 +1,9 @@
 # jQuery RickRoll plugin v3.1.88.5rc12a
 
 ## What is it?
-Enhance the UX of any website or app by randomly RickRolling your users!
+Enhance the UX of any website or app by randomly Rickrolling your users!
 
-BONUS: A bonus feature for those special users who roll with IE.
+BONUS: A bonus feature for those who roll with IE.
 
 ## Usage
 ```js
