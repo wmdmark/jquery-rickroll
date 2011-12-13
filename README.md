@@ -1,11 +1,14 @@
 # jQuery RickRoll plugin v3.1.88.5rc12b
 
 ## What is it?
-Enhance the UX of any website or app by randomly Rickrolling your users!
+Enhance the UX of any website or app by randomly Rickrolling your users! 
 
 BONUS: A bonus feature for those who roll with IE.
 
 ## Usage
+
+The following will randomly pick one link and turn it into a rickroll link.
+
 ```js
 $("a:visible").rickroll();
 ```
